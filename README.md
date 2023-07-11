@@ -1,6 +1,8 @@
 # Pre-requisites
 * Java 1.8/1.11/1.15
 * Maven
+<img width="1475" alt="Screenshot 2023-07-11 at 7 34 27 PM" src="https://github.com/bhoomikars/Metro-Card/assets/57263117/3b0bff90-4e7e-4cab-af77-a8de5f3bab1f">
+https://www.geektrust.com/coding/detailed/metro-card
 
 # How to run the code
 
